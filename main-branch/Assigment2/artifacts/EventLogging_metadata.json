@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "ActionPerformed",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "performAction",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Assigment2/q8.sol": "EventLogging"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Assigment2/q8.sol": {
+			"keccak256": "0xa29bdb12eba1740ceb10b8a405024dda564de63d794deefbab6332de6fcc3e86",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://da800a8ff7a3c464a22335457df83f105cd3cd70f3f33f110fac1b7f66f9b702",
+				"dweb:/ipfs/QmbF5jHJJRPdX11zjp7pt8pzHvRFfAZE2pDkk4cJP6ZGuS"
+			]
+		}
+	},
+	"version": 1
+}

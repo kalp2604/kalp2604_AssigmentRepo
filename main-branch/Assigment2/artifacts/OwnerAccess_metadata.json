@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "RestrictedAction",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "ownerOnlyFunction",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Assigment2/q7.sol": "OwnerAccess"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Assigment2/q7.sol": {
+			"keccak256": "0x8990c713d5f588c412a0d6d6b22c33b145eeb3a8c1db99332108e86bf89f925c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a27f1a6a306b5e4b66670258e4ac506fbf7a148899503c007aaf7113122342ce",
+				"dweb:/ipfs/Qme1w8maRj38KBTXojF4DGLGkyiwkkUFJsCSfD4rmuzRih"
+			]
+		}
+	},
+	"version": 1
+}
