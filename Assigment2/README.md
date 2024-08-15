@@ -8,46 +8,46 @@ The repository is organized into folders for different assignments, each contain
 
 - **Assignment 1**
   - [`q1.sol`](q1.sol): Hello World Contract
-  - [`q2.sol`](./Assigment2/q2.sol): Simple Storage Contract
-  - [`q3.sol`](./Assigment2/q3.sol): Greeting Contract
-  - [`q4.sol`](./Assigment2/q4.sol): Simple Counter Contract
-  - [`q5.sol`](./Assigment2/q5.sol): Name Storage Contract
-  - [`q6.sol`](./Assigment2/q6.sol): Basic Voting Contract
-  - [`q7.sol`](./Assigment2/q7.sol): Owner Access Contract
-  - [`q8.sol`](./Assigment2/q8.sol): Event Logging Contract
-  - [`q9.sol`](./Assigment2/q9.sol): Simple Ledger Contract
-  - [`q10.sol`](./Assigment2/q10.sol): Message Storage Contract
+  - [`q2.sol`](q2.sol): Simple Storage Contract
+  - [`q3.sol`](q3.sol): Greeting Contract
+  - [`q4.sol`](q4.sol): Simple Counter Contract
+  - [`q5.sol`](q5.sol): Name Storage Contract
+  - [`q6.sol`](q6.sol): Basic Voting Contract
+  - [`q7.sol`](q7.sol): Owner Access Contract
+  - [`q8.sol`](q8.sol): Event Logging Contract
+  - [`q9.sol`](q9.sol): Simple Ledger Contract
+  - [`q10.sol`](q10.sol): Message Storage Contract
 
 ## Smart Contract Descriptions
 
-### 1. **Hello World Contract ([`q1.sol`](./Assigment2/q1.sol))**
+### 1. **Hello World Contract ([`q1.sol`](q1.sol))**
    - A simple contract that returns the message "Hello, World!" when called.
 
-### 2. **Simple Storage ([`q2.sol`](./Assigment2/q2.sol))**
+### 2. **Simple Storage ([`q2.sol`](q2.sol))**
    - Allows users to store and retrieve a single integer value.
 
-### 3. **Greeting Contract ([`q3.sol`](./Assigment2/q3.sol))**
+### 3. **Greeting Contract ([`q3.sol`](q3.sol))**
    - Allows users to set and retrieve a personalized greeting message.
 
-### 4. **Simple Counter ([`q4.sol`](./Assigment2/q4.sol))**
+### 4. **Simple Counter ([`q4.sol`](q4.sol))**
    - Keeps track of a count and allows it to be incremented.
 
-### 5. **Name Storage ([`q5.sol`](./Assigment2/q5.sol))**
+### 5. **Name Storage ([`q5.sol`](q5.sol))**
    - Stores and retrieves a user's name.
 
-### 6. **Basic Voting ([`q6.sol`](./Assigment2/q6.sol))**
+### 6. **Basic Voting ([`q6.sol`](q6.sol))**
    - Implements a basic voting mechanism where users can vote for candidates and track the number of votes.
 
-### 7. **Owner Access ([`q7.sol`](./Assigment2/q7.sol))**
+### 7. **Owner Access ([`q7.sol`](q7.sol))**
    - Restricts certain functions to be executed only by the contract owner.
 
-### 8. **Event Logging ([`q8.sol`](./Assigment2/q8.sol))**
+### 8. **Event Logging ([`q8.sol`](q8.sol))**
    - Logs events when certain actions are performed within the contract.
 
-### 9. **Simple Ledger ([`q9.sol`](./Assigment2/q9.sol))**
+### 9. **Simple Ledger ([`q9.sol`](/q9.sol))**
    - Maintains a ledger of transactions with basic entries, recording the sender and a message.
 
-### 10. **Message Storage ([`q10.sol`](./Assigment2/q10.sol))**
+### 10. **Message Storage ([`q10.sol`](q10.sol))**
    - Allows users to store and retrieve a message string.
 
 ## Usage
