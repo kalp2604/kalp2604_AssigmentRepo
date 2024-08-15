@@ -55,17 +55,3 @@ The repository is organized into folders for different assignments, each contain
 1. **Compilation**: Use the Solidity compiler (`solc`) or an online IDE like [Remix](https://remix.ethereum.org/) to compile the contracts.
 2. **Deployment**: Deploy the contracts on an Ethereum test network (e.g., Ropsten, Rinkeby) or a local Ethereum network like [Ganache](https://www.trufflesuite.com/ganache).
 3. **Interaction**: After deployment, interact with the contracts via a web3 interface, like [Remix](https://remix.ethereum.org/) or using web3.js/ethers.js in a dApp.
-
-## Prerequisites
-
-- [Solidity](https://soliditylang.org/) v0.8.0 or later
-- [Node.js](https://nodejs.org/) and npm (for local development)
-- [Remix IDE](https://remix.ethereum.org/) (for easy testing and deployment)
-
-## Installation
-
-To work with the contracts locally:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/YourGitHubUsername/YourGitHubUsername_AssignmentRepo.git
