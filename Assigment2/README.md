@@ -7,7 +7,7 @@ This repository contains a collection of simple Solidity smart contracts that de
 The repository is organized into folders for different assignments, each containing the respective Solidity files:
 
 - **Assignment 1**
-  - [`q1.sol`](./Assigment2/q1.sol): Hello World Contract
+  - [`q1.sol`](Assigment2/q1.sol): Hello World Contract
   - [`q2.sol`](./Assigment2/q2.sol): Simple Storage Contract
   - [`q3.sol`](./Assigment2/q3.sol): Greeting Contract
   - [`q4.sol`](./Assigment2/q4.sol): Simple Counter Contract
