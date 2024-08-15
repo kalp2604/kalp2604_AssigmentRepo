@@ -6,7 +6,7 @@ This repository contains a collection of simple Solidity smart contracts that de
 ## Repository Structure
 The repository is organized into folders for different assignments, each containing the respective Solidity files. You can navigate to each assignment folder by clicking on the links below:
 
-- **[Assignment 2](Assignment2/)**: Contains contracts for the following tasks:
+- **[Assignment 2](Assigment2/)**: Contains contracts for the following tasks:
   - Hello World Contract
   - Simple Storage Contract
   - Greeting Contract
