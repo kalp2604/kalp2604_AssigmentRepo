@@ -4,6 +4,7 @@
 ## Overview
 This repository contains a collection of simple Solidity smart contracts that demonstrate various basic functionalities.
 
+
 ## Repository Structure
 The repository is organized into folders for different assignments, each containing the respective Solidity files. You can navigate to each assignment folder by clicking on the links below:
 
@@ -21,3 +22,5 @@ The repository is organized into folders for different assignments, each contain
 
 - **[Assignment 3](Assignment3/)**: Contains contracts for the following tasks:
   - Lottery System Smart Contract
+
+**Note:** Each Assignment contains the separate README file you can Check it out .
