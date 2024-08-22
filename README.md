@@ -20,4 +20,4 @@ The repository is organized into folders for different assignments, each contain
   - Message Storage Contract
 
 - **[Assignment 3](Assignment3/)**: Contains contracts for the following tasks:
-  - Hello World Contract
+  - Lottery System Smart Contract
