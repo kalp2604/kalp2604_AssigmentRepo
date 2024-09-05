@@ -8,10 +8,11 @@ This repository contains a collection of simple Solidity smart contracts that de
 The repository is organized into folders for different assignments, each containing the respective Solidity files:
 
 - **Assignment 1**
-  - `HashWithPrefix.sol`: SHA-256 Hash with Specific Prefix
-  - `HashWithPrefixAndStart.sol`: SHA-256 Hash with Specific Starting String
-  - `FindNonce.sol`: Finding a Nonce for a Given Input
-  - `Donation.sol`: Donation Smart Contract
+  - [`q1.sol`](q1.sol): SHA-256 Hash with Specific Prefix
+  - [`q2.sol`](q2.sol) SHA-256 Hash with Specific Starting String
+  - [`q3.sol`](q3.sol): Finding a Nonce for a Given Input
+  - [`q1.sol`](q1.sol): Making the Zombie Factory
+  - [`q4.sol`](q4.sol): Donation Smart Contract
 
 ## Smart Contract Descriptions
 
