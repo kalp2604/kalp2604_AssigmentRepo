@@ -30,5 +30,4 @@ The repository is organized into folders for different assignments, each contain
   - Making the Zombie Factory
   - Donation Smart Contract
 
-  - 
 **Note:** Each Assignment contains the separate README file you can Check it out .
