@@ -16,16 +16,16 @@ The repository is organized into folders for different assignments, each contain
 
 ## Smart Contract Descriptions
 
-### 1. **SHA-256 Hash with Specific Prefix (`HashWithPrefix.sol`)**
+### 1. **SHA-256 Hash with Specific Prefix ([`q1.sol`](q1.sol))**
    - Finds an input string that outputs a SHA-256 hash starting with a specified prefix.
 
-### 2. **SHA-256 Hash with Specific Starting String (`HashWithPrefixAndStart.sol`)**
+### 2. **SHA-256 Hash with Specific Starting String ([`q2.sol`](q2.sol))**
    - Finds a hash that starts with a specified prefix and the input string starts with a given string.
 
-### 3. **Finding a Nonce for a Given Input (`FindNonce.sol`)**
+### 3. **Finding a Nonce for a Given Input ([`q3.sol`](q3.sol))**
    - Finds a nonce for a given input string such that the resulting SHA-256 hash starts with a specified prefix.
 
-### 4. **Donation Smart Contract (`Donation.sol`)**
+### 5. **Donation Smart Contract ([`q5.sol`](q5.sol)))**
    - Allows individuals to donate Ether to the contract and the owner to transfer the collected donations to various recipients.
 
 ## Usage
@@ -33,7 +33,3 @@ The repository is organized into folders for different assignments, each contain
 1. **Compilation**: Use the Solidity compiler (`solc`) or an online IDE like Remix to compile the contracts.
 2. **Deployment**: Deploy the contracts on an Ethereum test network (e.g., Ropsten, Rinkeby) or a local Ethereum network like Ganache.
 3. **Interaction**: After deployment, interact with the contracts via a web3 interface, like Remix or using web3.js/ethers.js in a dApp.
-
-## License
-
-This project is licensed under the MIT License.
