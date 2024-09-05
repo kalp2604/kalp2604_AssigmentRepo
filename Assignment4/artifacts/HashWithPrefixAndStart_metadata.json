@@ -1,0 +1,113 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "input",
+						"type": "string"
+					},
+					{
+						"indexed": false,
+						"internalType": "bytes32",
+						"name": "hash",
+						"type": "bytes32"
+					}
+				],
+				"name": "HashFound",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "iteration",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"internalType": "bytes32",
+						"name": "hash",
+						"type": "bytes32"
+					}
+				],
+				"name": "Iteration",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "prefix",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "maxIterations",
+						"type": "uint256"
+					}
+				],
+				"name": "findHashWithPrefixAndStart",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Assignment4/q2.sol": "HashWithPrefixAndStart"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Assignment4/q2.sol": {
+			"keccak256": "0x75d133d36f17bd47ecf0313cde409ac547b22bf663f5756ec16748a3a7d1c265",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8b3a2259251bb8dbf249cbc10dd1654aba332566ad7b4922a86dfc6e644a8992",
+				"dweb:/ipfs/QmWsQB2J6UpaTKNEq7mfmoeWyMmoxwFRwyG18smsUPTAC1"
+			]
+		}
+	},
+	"version": 1
+}
