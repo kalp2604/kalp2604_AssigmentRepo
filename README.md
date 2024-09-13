@@ -29,5 +29,9 @@ The repository is organized into folders for different assignments, each contain
   - Finding a Nonce for a Given Input
   - Making the Zombie Factory
   - Donation Smart Contract
+ 
+- **[Assignment 3](Assignment3/)**: Contains contracts for the following tasks:
+  - Crowdfunding Contract
+  - Voting System Contract
 
 **Note:** Each Assignment contains the separate README file you can Check it out .
