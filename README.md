@@ -23,4 +23,11 @@ The repository is organized into folders for different assignments, each contain
 - **[Assignment 3](Assignment3/)**: Contains contracts for the following tasks:
   - Lottery System Smart Contract
 
+- **[Assignment 4](Assignment4/)**: Contains contracts for the following tasks:
+  - SHA-256 Hash with Specific Prefix
+  - SHA-256 Hash with Specific Starting String
+  - Finding a Nonce for a Given Input
+  - Making the Zombie Factory
+  - Donation Smart Contract
+
 **Note:** Each Assignment contains the separate README file you can Check it out .
