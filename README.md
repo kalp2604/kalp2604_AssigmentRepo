@@ -30,7 +30,7 @@ The repository is organized into folders for different assignments, each contain
   - Making the Zombie Factory
   - Donation Smart Contract
  
-- **[Assignment 3](Assignment3/)**: Contains contracts for the following tasks:
+- **[Assignment 5](Assignment5/)**: Contains contracts for the following tasks:
   - Crowdfunding Contract
   - Voting System Contract
 
